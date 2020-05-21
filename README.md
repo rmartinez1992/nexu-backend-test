@@ -2,7 +2,7 @@
 Our goal is to give you a small coding challenge that gives you a chance to show off your skills while giving you an idea of some of the problems that you may encounter at Nexu. We know you're busy with life, so we hope that you can spend around 2 hours working through this exercise. We don't expect you to finish in 2 hours, so don't worry if you can't. Submit what you have along with some notes on your thoughts and how you would proceed if you had more time. Most importantly, try to have some fun with it!
 
 ## Overview
-You just got hired to join the *cool* engineering team at *Nexu*! The first story in your sprint backlog is to build an backend application for an already existing frontend. The frontend needs the next routes:
+You just got hired to join the *cool* engineering team at *Nexu*! The first story in your sprint backlog is to build a backend application for an already existing frontend. The frontend needs the next routes:
 
 
 ```
@@ -10,6 +10,7 @@ You just got hired to join the *cool* engineering team at *Nexu*! The first stor
                               GET    /brands/:id/models
                               POST   /brands
                               POST   /brands/:id/models
+                              PUT    /models/:id
                               GET    /models
 ```
 
@@ -87,7 +88,7 @@ If lower param is included show all models with average_price lower than the par
   {"id": 3, "name": "RDX", "average_price": 395753}
 ]
 ```
-
+Code all the endpoints and the logic needed
 Create a database to store this information
 Populate the database from the json included in this repository
 
@@ -95,12 +96,6 @@ Populate the database from the json included in this repository
 - your code should be linted
 - your code should include at least a couple of tests
 - your code should include a `README.md` file in the root with instructions for building, running, and testing. It can also include notes on your throught process and any issues you may have run into.
-
-## Evaluation
-We will evaluate your submission using the following criteria
-- Is your application well organized?
-- Is your code for humans?
-- Is your code efficient & performant?
 
 ## Submission
 Please upload this repository to Github and submit to @remigioamc when complete. Also, we would love your feedback, so feel free to share your thoughts on the exercise!
