@@ -18,11 +18,11 @@ You just got hired to join the *cool* engineering team at *Nexu*! The first stor
 List all brands 
 ```json
 [
-{"id": 1, "nombre": "Acura", "average_price": 702109},
-{"id": 2, "nombre": "Audi", "average_price": 630759},
-{"id": 3, "nombre": "Bentley", "average_price": 3342575},
-{"id": 4, "nombre": "BMW", "average_price": 858702},
-{"id": 5, "nombre": "Buick", "average_price": 290371},
+  {"id": 1, "nombre": "Acura", "average_price": 702109},
+  {"id": 2, "nombre": "Audi", "average_price": 630759},
+  {"id": 3, "nombre": "Bentley", "average_price": 3342575},
+  {"id": 4, "nombre": "BMW", "average_price": 858702},
+  {"id": 5, "nombre": "Buick", "average_price": 290371},
   "..."
 ]
 ```
