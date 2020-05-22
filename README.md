@@ -90,9 +90,12 @@ If lower param is included show all models with average_price lower than the par
   {"id": 3, "name": "RDX", "average_price": 395753}
 ]
 ```
-Code all the endpoints and the logic needed
-Create a database to store this information
-Populate the database from the json included in this repository
+
+- Code all the endpoints and the logic needed
+
+- Create a database to store this information
+
+- Populate the database from the json included in this repository
 
 ## Requirements
 - your code should be linted
