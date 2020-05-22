@@ -61,7 +61,9 @@ You may add new models to a brand. A model name must be unique inside a brand.
 {"name": "Prius", "average_price": 406400}
 ```
 If the brand id doesn't exist return a response code and error message reflecting it.
+
 If the model name already exists for that brand return a response code and error message reflecting it.
+
 Average price is optional, if supply it must be greater than 100,000.
 
 
@@ -95,7 +97,7 @@ Populate the database from the json included in this repository
 ## Requirements
 - your code should be linted
 - your code should include at least a couple of tests
-- your code should include a `README.md` file in the root with instructions for building, running, and testing. It can also include notes on your throught process and any issues you may have run into.
+- your code should include a `README.md` file in the root with instructions for building, running, and testing. It can also include notes on your thought process and any issues you may have run into.
 
 ## Submission
 Please upload this repository to Github and submit to @remigioamc when complete. Also, we would love your feedback, so feel free to share your thoughts on the exercise!
