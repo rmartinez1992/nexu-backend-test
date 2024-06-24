@@ -16,7 +16,7 @@ You just got hired to join the *cool* engineering team at *Nexu*! The first stor
 
 #### GET /brands
 
-List all brands 
+List all brands
 ```json
 [
   {"id": 1, "nombre": "Acura", "average_price": 702109},
@@ -78,7 +78,7 @@ The average_price must be greater then 100,000.
 
 #### GET /models?greater=&lower=
 
-List all models. 
+List all models.
 If greater param is included show all models with average_price greater than the param
 If lower param is included show all models with average_price lower than the param
 ```
@@ -108,4 +108,19 @@ Please upload this repository to Github and submit to @remigioamc when complete.
 ## Bonus
 Deploy your application so we can test it against our frontend. Share the URL.
 
+# Nexu Backend
 
+## Description
+This is a backend application for managing car brands and models.
+
+## Setup
+1. Install .NET Core 7 SDK
+2. Clone the repository
+3. Navigate to the project directory
+
+## bash
+cd NexuBackend
+dotnet restore
+dotnet run
+## URL Servicio
+http://74.208.93.53/nexutest/swagger/index.html

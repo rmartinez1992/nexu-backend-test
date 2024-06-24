@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\dao\\implementacion\\modelsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\dao\\implementacion\\modelsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\dao\\implementacion\\branddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\dao\\implementacion\\branddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\bsd\\implementacion\\modelsbsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\bsd\\implementacion\\modelsbsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\bsd\\implementacion\\brandbsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\bsd\\implementacion\\brandbsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\bsd\\interfaz\\imodelsbsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\bsd\\interfaz\\imodelsbsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\dao\\interfaz\\imodelsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\dao\\interfaz\\imodelsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\dao\\interfaz\\ibranddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\dao\\interfaz\\ibranddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|c:\\users\\amartinez\\onedrive - cimatic.com.mx\\escritorio\\nexu-backend-test\\nexu-backend-test\\prueba\\prueba_nexu\\prueba_nexu\\dto\\modeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C54EC38-FAF8-49D7-90A9-4B72187E9080}|Prueba_nexu\\Prueba_nexu.csproj|solutionrelative:prueba_nexu\\dto\\modeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Prueba_nexu\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:20:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\Program.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\Program.cs",
+              "RelativeToolTip": "Prueba_nexu\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:11:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandDAO.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Implementacion\\BrandDAO.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\DAO\\Implementacion\\BrandDAO.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Implementacion\\BrandDAO.cs",
+              "RelativeToolTip": "Prueba_nexu\\DAO\\Implementacion\\BrandDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:01:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrandBSD.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\BSD\\Implementacion\\BrandBSD.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\BSD\\Implementacion\\BrandBSD.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\BSD\\Implementacion\\BrandBSD.cs",
+              "RelativeToolTip": "Prueba_nexu\\BSD\\Implementacion\\BrandBSD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:01:05.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "modelsController.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\Controllers\\modelsController.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\Controllers\\modelsController.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\Controllers\\modelsController.cs",
+              "RelativeToolTip": "Prueba_nexu\\Controllers\\modelsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAewCsAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:23:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelsBSD.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\BSD\\Implementacion\\ModelsBSD.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\BSD\\Implementacion\\ModelsBSD.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\BSD\\Implementacion\\ModelsBSD.cs",
+              "RelativeToolTip": "Prueba_nexu\\BSD\\Implementacion\\ModelsBSD.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAHQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:36:13.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IModelsBSD.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\BSD\\Interfaz\\IModelsBSD.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\BSD\\Interfaz\\IModelsBSD.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\BSD\\Interfaz\\IModelsBSD.cs",
+              "RelativeToolTip": "Prueba_nexu\\BSD\\Interfaz\\IModelsBSD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:36:14.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Implementacion\\ModelsDAO.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\DAO\\Implementacion\\ModelsDAO.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Implementacion\\ModelsDAO.cs",
+              "RelativeToolTip": "Prueba_nexu\\DAO\\Implementacion\\ModelsDAO.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwHUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:04:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IModelsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Interfaz\\IModelsDAO.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\DAO\\Interfaz\\IModelsDAO.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Interfaz\\IModelsDAO.cs",
+              "RelativeToolTip": "Prueba_nexu\\DAO\\Interfaz\\IModelsDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:03:46.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBrandDAO.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Interfaz\\IBrandDAO.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\DAO\\Interfaz\\IBrandDAO.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DAO\\Interfaz\\IBrandDAO.cs",
+              "RelativeToolTip": "Prueba_nexu\\DAO\\Interfaz\\IBrandDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:36:22.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DTO\\ModelDTO.cs",
+              "RelativeDocumentMoniker": "Prueba_nexu\\DTO\\ModelDTO.cs",
+              "ToolTip": "C:\\Users\\amartinez\\OneDrive - cimatic.com.mx\\Escritorio\\nexu-backend-test\\nexu-backend-test\\Prueba\\Prueba_nexu\\Prueba_nexu\\DTO\\ModelDTO.cs",
+              "RelativeToolTip": "Prueba_nexu\\DTO\\ModelDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:32:43.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
